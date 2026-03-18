@@ -1,0 +1,8 @@
+# Ignore large dataset file that exceeds GitHub's 100MB limit
+creditcard.csv
+
+# macOS files
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
