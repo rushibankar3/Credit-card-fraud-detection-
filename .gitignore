@@ -1,5 +1,6 @@
 # Ignore large dataset file that exceeds GitHub's 100MB limit
 creditcard.csv
+creditcard.csv.zip
 
 # macOS files
 .DS_Store
